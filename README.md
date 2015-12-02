@@ -207,3 +207,7 @@ event candidates is that they are very strong in this area.
 * How to tackle a task which is difficult to estimate and with high risk?
 * How to react to unexpected/frequent requirement changes? Considering PoC phase and production phase.
 * How to keep a team stable with limited offer(you can't increase the compensation while the competitors can give more).
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
